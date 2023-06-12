@@ -2,4 +2,4 @@
 
 REST API powered by Spring Boot 
 
-backend for film fiends 
+Full stack project. Java Spring Boot, React, MongoDb 
