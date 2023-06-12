@@ -1,4 +1,4 @@
-# MovieAPISpring
+# FILM-FIENDS MOVIEAPI
 
 REST API powered by Spring Boot 
 
